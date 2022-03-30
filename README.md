@@ -3,7 +3,7 @@ API Requirements
 In order to make a payment with the credit card, user has to provide credit card information and it has
 to be validated.
 Please create an API that validates credit card data.
-Input parameters: Card owner, Credit Card number, issue date and CVC.
+Input parameters: Card owner, Credit Card number, issue date, expiry date and CVC.
 Logic should verify that all fields are provider, card owner does not have credit card information, credit
 card is not expired, number is valid for specified credit card type, CVC is valid for specified credit card
 type.
