@@ -18,4 +18,5 @@ Implement only 3 types of credit cards: Master Card, Visa and American Express.
 4. xUnit
 5. Swagger 
 
-![Capture](https://user-images.githubusercontent.com/6374652/160877988-57f07370-853c-426a-b275-974496667a3b.PNG)
+
+![Capture](https://user-images.githubusercontent.com/6374652/160878855-83544d4d-2dfd-4b24-a55c-75a15b6d584b.PNG)
